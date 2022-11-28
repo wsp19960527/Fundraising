@@ -141,6 +141,7 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
+package-lock.json
 
 # Visual Studio profiler
 *.psess
